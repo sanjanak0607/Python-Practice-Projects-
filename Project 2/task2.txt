@@ -1,0 +1,3 @@
+Hello World! This is a simple text file. Python is great, and Python is
+powerful. HELLO again! Learning python is fun. Apple, orange, umbrella
+are fruits. Do you love coding? I love coding!
